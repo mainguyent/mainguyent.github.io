@@ -15,7 +15,7 @@ Notes, write-ups, and things I find worth sharing.
 
 <small>{{ post.date | date: "%B %-d, %Y" }}</small>
 
-<small>{{ post.excerpt }}</small>
+{{ post.excerpt }}
 
 ---
 {% endfor %}
