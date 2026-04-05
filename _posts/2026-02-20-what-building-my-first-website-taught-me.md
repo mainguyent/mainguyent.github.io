@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What Building My First Website Taught Me"
-date: 2026-04-06
+date: 2026-02-20
 ---
 
 # What Building My First Website Taught Me
